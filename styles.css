@@ -58,6 +58,12 @@ body {
   padding: 5px;
   font-family: var(--font_family);
   direction: ltr;
+  border: transparent !important;
+  border-radius: 8px !important;
+  -webkit-border-radius: 8px !important;
+  -moz-border-radius: 8px !important;
+  -ms-border-radius: 8px !important;
+  -o-border-radius: 8px !important;
 }
 
 button {
