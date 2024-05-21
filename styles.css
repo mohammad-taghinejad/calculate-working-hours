@@ -78,6 +78,7 @@ button {
   -moz-transition: background-color 0.3s ease;
   -o-transition: background-color 0.3s ease;
   transition: background-color 0.3s ease;
+  font-family: var(--font_family) !important;
 }
 
 button:hover {
