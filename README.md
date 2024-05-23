@@ -27,7 +27,7 @@ To run this project, you need a modern web browser that supports HTML5, CSS3, an
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/working-hours-calculator.git
+    git clone https://github.com/mohammad-taghinejad/working-hours-calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
