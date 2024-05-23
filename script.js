@@ -45,7 +45,7 @@ function calculateTimes() {
     const overTimeStartMinute = overTimeStart.getMinutes();
 
     document.getElementById("result").innerHTML += `
-      <p>اضافه‌کاری از ساعت: ${overTimeStartHour}:${overTimeStartMinute
+      <p>ساعت شروع اضافه‌کاری: ${overTimeStartHour}:${overTimeStartMinute
       .toString()
       .padStart(2, "0")}</p>
       <p>مجموع ساعات اضافه‌کاری: ${overTimeHours}:${overTimeRemainingMinutes
